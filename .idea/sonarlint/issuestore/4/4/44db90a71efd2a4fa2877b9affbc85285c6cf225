@@ -1,0 +1,9 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(İßÅŒıÿÿÿÿ8Ë“åİ¼1
+L	java:S106"+Replace this use of System.out by a logger.(Ü”«¯üÿÿÿÿ8¯ßæİ¼1
+L	java:S106
+"+Replace this use of System.out by a logger.(©òòÎøÿÿÿÿ8°ßæİ¼1
+G	java:S106"+Replace this use of System.out by a logger.(ÚÉµá8±ßæİ¼1
+q
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8å×èİ¼1
+G	java:S106"+Replace this use of System.out by a logger.(ùõá€8æ×èİ¼1
