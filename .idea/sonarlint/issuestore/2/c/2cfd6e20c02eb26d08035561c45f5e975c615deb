@@ -1,0 +1,13 @@
+
+i
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(´ä™D8‰ˆ‰½1
+k
+java:S2095'"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(¸¹½8ˆˆ‰½1
+L	java:S106"+Replace this use of System.out by a logger.(åİ¸íüÿÿÿÿ8’ˆ‰½1
+G	java:S106"+Replace this use of System.out by a logger.(»‚òâ8’ˆ‰½1
+L	java:S106"+Replace this use of System.out by a logger.(­ ‘ˆüÿÿÿÿ8“ˆ‰½1
+G	java:S106"+Replace this use of System.out by a logger.(Éáğè8“ˆ‰½1
+G	java:S106"+Replace this use of System.out by a logger.(€İÙü8”ˆ‰½1
+G	java:S106"+Replace this use of System.out by a logger.(¢¾ÒÁ8•ˆ‰½1
+L	java:S106)"+Replace this use of System.out by a logger.(è­ÜÑùÿÿÿÿ8†¸ˆ‰½1
+G	java:S106+"+Replace this use of System.out by a logger.(…œ½ô8§«Š‰½1
